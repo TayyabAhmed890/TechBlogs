@@ -7,7 +7,7 @@ const Mont = Montserrat({
 });
 
 
-export const blogData = [
+export let blogData = [
   {
     name: "blog1",
     title: "Introduction to PHP",
